@@ -1,6 +1,7 @@
 # Cosmic-Envoy-Timer
 ### A mod which displays the time since the last naturally spawned Cosmic Envoy.
-- **This mod requires Forge for 1.8.9**
+Notes: 
+- This mod requires Forge for 1.8.9
 - This mod has only been tested on Minecraft version 1.8.9
 
 # Navigation
