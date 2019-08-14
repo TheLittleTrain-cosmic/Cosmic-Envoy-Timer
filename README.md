@@ -6,6 +6,7 @@ Notes:
 
 # Navigation
 
+- [Screenshots](https://github.com/TheLittleTrain-cosmic/Cosmic-Envoy-Timer/blob/master/screenshots.md)
 - [Download](https://github.com/TheLittleTrain-cosmic/Cosmic-Envoy-Timer/releases)
 - [Building From Source](#building-from-source)
 - [Installation](#installation)
