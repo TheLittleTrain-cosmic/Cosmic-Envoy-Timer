@@ -56,7 +56,7 @@ public class EnvoyGui extends Gui {
         if (listenForEnvoySummoner) {
             msgsSinceEnvoy++;
             if (msgsSinceEnvoy == 2) {
-                if (!event.message.getUnformattedText().contains("Summoned by")) {
+                if (!event.message.getUnformattedText().contains("Cosmic Envoy Summoner:")) {
                     lastNaturalEnvoy = lastEnvoy;
                 }
                 listenForEnvoySummoner = false;
