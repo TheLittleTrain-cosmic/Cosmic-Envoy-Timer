@@ -7,7 +7,7 @@
 
 - [Download](https://github.com/TheLittleTrain-cosmic/Cosmic-Envoy-Timer/releases)
 - [Building From Source](https://github.com/TheLittleTrain-cosmic/Cosmic-Envoy-Timer/blob/master/README.md#building-from-source)
-- [Installation](https://github.com/TheLittleTrain-cosmic/Cosmic-Envoy-Timer/releases)
+- [Installation](#installation)
 
 # Building From Source
 To build this mod from the repo follow these steps:
