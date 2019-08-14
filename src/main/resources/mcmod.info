@@ -1,0 +1,15 @@
+[
+{
+  "modid": "EnvoyTimer",
+  "name": "Cosmic Envoy Timer",
+  "description": "Displays when the last Cosmic Envoy occured.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheLittleTrain_"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
